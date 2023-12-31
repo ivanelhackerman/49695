@@ -1,0 +1,560 @@
+header{
+    background-color: #E3D7BF;
+    width: 100%;
+    height: 451.15px;
+}
+header nav ul{
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    margin-top: 0;
+    padding-top: 1rem;
+    font-size: 25px;
+    list-style: none;
+}
+h1{
+    font-size: 50px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h2{
+    background-color: #FBD5E5;
+    font-size: 40px;
+    width: 522px;
+    height: 64,99px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-width: 40px;
+    padding-left: 8px;
+    margin: 20px;
+}
+.ETF{
+    background-color: #C6B69F;
+    margin: 20px;
+    width: 1239px;
+    height: 484.27px;
+    font-size: 24px;
+    padding: 40px;
+    color: white;
+}
+.sec-recetas p{
+    background-color: #C6B69F;
+    height: 372.05px;
+    width: 1239px;
+    font-size: 24px;
+}
+.flow{
+    background-color: #C6B69F;
+    margin: 20px;
+    width: 1331px;
+    height: 312px;
+    font-size: 35px;
+    padding: 40px;
+    color: rgb(0, 0, 0);
+}
+.pilares{
+    display: flex;
+    flex-direction: row;
+}
+h3{
+    font-size: 25px;
+    text-decoration: underline;
+}
+h4{
+    font-size: 20px;
+}
+.cuerpo{
+    width: 288px;
+    height: 532px;
+    background-color: #FBD5E5;
+    text-align: center;
+    box-shadow: 5px;
+    margin: 39px;
+}
+.mente{
+    width: 288px;
+    height: 532px;
+    background-color: #FBD5E5;
+    text-align: center;
+    box-shadow: 5px;
+    margin: 39px;
+}
+.corazon{
+    width: 288px;
+    height: 532px;
+    background-color: #FBD5E5;
+    text-align: center;
+    box-shadow: 5px;
+    margin: 39px;
+}
+.alma{
+    width: 288px;
+    height: 532px;
+    background-color: #FBD5E5;
+    text-align: center;
+    box-shadow: 5px;
+    margin: 39px;
+}
+.ctdi{
+    width: 439px;
+    height: 82px;
+    background-color: #FBD5E5;
+    color: black;
+    text-align: center;
+    margin: 36px;
+    font-size: 35px;
+}
+.ctdi-art{
+    background-color: #C6B69F;
+    color: white;
+    font-size: 26px;
+    margin: 36px;
+    padding-left: 26px;
+}
+footer{
+    background-color: #E3D7BF;
+    width: 1440px;
+    height: 1147px;
+    font-size: 20px;
+    color: #AFA494;
+}
+
+
+
+
+/*SOBRE MI*/
+
+.sobremi{
+    font-size: 40px;
+    height: 67.78px;
+    width: 285px;
+    margin-left: 74px;
+}
+.sm1{
+    font-size: 20px;
+    margin-left: 74px;
+    height: 191px;
+    width: 1333px;
+}
+.sm2{
+    display: flex;
+    flex-direction: row;
+    margin-left: 74px;
+    margin-top: -45px;
+}
+.sm3{
+    font-size: 20px;
+    margin-right: 10px;
+    width: 756px;
+    height: 739px;
+    margin-top: 10px;
+}
+
+
+
+/*RECTAS*/
+
+.recetas{
+    font-size: 40px;
+    width: 218px;
+    height: 65px;
+    margin-left: 64px;
+}
+.r1{
+    color: white;
+    font-size: 24px;
+    width: 1184px;
+    height: 344.95px;
+    margin-left: 100px;
+}
+
+.categorias{
+    background-color: #E3D7BF;
+    height: 100px;
+    width: 1440px;
+    margin-top: 30px;
+    margin-bottom: 400px;
+    }
+.cat1{
+    text-decoration: underline;
+    font-size: 40px;
+    text-align: center;
+}
+.cat2{
+    background-color: #C6B69F;
+    font-size: 30px;
+    height: 181px;
+    margin-bottom: 40px;
+}
+.cat3{
+    margin: 21px 146px 0px 146px;
+}
+.tag{
+    font-size: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: #FBD5E5;
+    border-radius: 90px;
+    margin-right: 44px;
+}
+
+.recetas1{
+    display: flex;
+    flex-direction: column;
+    width: 320px;
+}
+.tag2{
+    font-size: 17px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: #FBD5E5;
+    border-radius: 90px;
+    margin-right: 44px;
+}
+.recetas2{
+    display: flex;
+    flex-direction: row;
+
+}
+.recetas3{
+    margin-left: 30px;
+    width: 1032px;
+    height: 595px;
+}
+.receta0{
+    padding-left: 32px;
+    margin-bottom: 50px;
+    font-size: 30px;
+}
+
+
+
+/*SPORT*/
+
+.sport{
+    font-size: 40px;
+    width: 518px;
+    height: 60.73px;
+    margin-left: 64px;
+}
+.spt{
+    background-color: #C6B69F;
+    width: 1239px;
+    height: 250px;
+    font-size: 24px;
+    margin: 20px 100px 60px 100px;
+}
+.tag{
+    font-size: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: #FBD5E5;
+    border-radius: 90px;
+    margin-right: 44px;
+}
+
+
+.tag2{
+    font-size: 17px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: #FBD5E5;
+    border-radius: 90px;
+    margin-right: 44px;
+}
+
+
+.spt0{
+    padding-left: 32px;
+    margin-bottom: 50px;
+    font-size: 30px;
+}
+.spt1{
+    display: flex;
+    flex-direction: row;
+}
+.spt2{
+    padding-left: 30px;
+}
+.spt3{
+    margin-left: 30px;
+    width: 1032px;
+    height: 595px;
+}
+
+
+
+
+/*MAS FLOW*/
+
+.mf{
+    font-size: 50px;
+    width: 823px;
+}
+.news{
+    display: flex;
+    flex-direction: row;
+    padding-top: 55px;
+    padding-left: 50px;
+    padding-bottom: 55px;
+}
+
+.news1{
+    background-color: #FBD5E5;
+    font-size: 20px;
+    margin-right: 30px;
+    padding-bottom: 40;
+    width: 420px;
+    height: 581px;
+}
+.news2{
+    background-color: #FBD5E5;
+    font-size: 20px;
+    margin-right: 30px;
+    padding-bottom: 40;
+    width: 420px;
+    height: 581px;
+}
+.news3{
+    background-color: #FBD5E5;
+    font-size: 20px;
+    margin-right: 30px;
+    padding-bottom: 40;
+    width: 420px;
+    height: 581px;
+}
+
+/*desktop*/
+
+@media(max-width: 1440px){
+    header{
+        width: 100%;
+        height: 451.15px;
+    }
+    header nav ul{
+        list-style: none;
+        font-style: none;
+    }
+    .logo{
+        padding-left: 10px;
+    }
+    h1{
+        padding-left: 10px;
+    }
+    .ETF{
+        width: 1300px;
+        font-size: 25px;
+        padding-inline: 30px;
+        height: 400px;
+    }
+    .flow1{
+        width: 100%;
+    }
+    
+}
+
+@media(max-width: 1024px){
+    header{
+        width: 1024px;
+        height: 250px;
+    }
+    h2{
+        font-size: 25px;
+        width: 300px;
+        height: 55px;
+        padding-bottom: 15px;
+        padding-top: 15px;
+        border-width: 40px;
+        padding-left: 8px;
+        margin: 20px;
+    }
+    header nav ul{
+        list-style: none;
+        font-style: none;
+        align-items: end;
+        font-size: smaller;
+    }
+    h1{
+        font-size: 30px;
+    }
+    .logo{
+        padding-left: 10px;
+        height: 100px;
+        width: 110px;
+    }
+    h1{
+        padding-left: 10px;
+    }
+    .ETF{
+        width: 500px;
+        font-size: 12px;
+        padding: 30px;
+        height: 250px;
+    }
+    .flow{
+        width: 500px;
+        height: 75px;
+        padding: 20px;
+        font-size: 12px;
+    }
+    .pilares{
+        width: 1024px;
+        display: grid;
+        grid-template-columns: 11;
+        grid-template-rows: 2;
+        grid-template-areas: 
+        "cuerpo cuerpo . mente mente . corazon corazon . alma alma"
+        "cuerpo cuerpo . mente mente . corazon corazon . alma alma"
+        ;
+    }
+    h3{
+        font-size: 25px;
+        text-decoration: underline;
+    }
+    h4{
+        font-size: 20px;
+    }
+    .cuerpo{
+        width: 186.181818182px;
+        height: 532px;
+        background-color: #FBD5E5;
+        text-align: center;
+        box-shadow: 5px;
+        margin: 39px;
+    }
+    .mente{
+        width: 186.181818182px;
+        height: 532px;
+        background-color: #FBD5E5;
+        text-align: center;
+        box-shadow: 5px;
+        margin: 39px;
+    }
+    .corazon{
+        width: 186.181818182px;
+        height: 532px;
+        background-color: #FBD5E5;
+        text-align: center;
+        box-shadow: 5px;
+        margin: 39px;
+    }
+    .alma{
+        width: 186.181818182px;
+        height: 532px;
+        background-color: #FBD5E5;
+        text-align: center;
+        box-shadow: 5px;
+        margin: 39px;
+    }
+    .cuerpo img{
+        width: 186.181818182px;
+        height: 186.181818182px;
+    }
+    .mente img{
+        width: 186.181818182px;
+        height: 186.181818182px;
+    }
+    .corazon img{
+        width: 186.181818182px;
+        height: 186.181818182px;
+    }
+    .alma img{
+        width: 186.181818182px;
+        height: 186.181818182px;
+    }
+    footer{
+        background-color: #E3D7BF;
+        width: 1024px;
+        height: 700px;
+        font-size: 20px;
+        color: #AFA494;
+    }
+    .credits{
+        width: 1024px;
+        height: 456px;
+}
+}
+/*TABLETA*/
+@media(max-width: 768px){
+    header{
+        width: 768px;
+    }
+    .ctdi-art{
+        width: 900px;
+        height: 900px;
+    }
+}
+
+/*MOBILE*/
+@media(max-width: 425px){
+    h2{
+        font-size: 25px;
+        width: 300px;
+        height: 55px;
+        padding-bottom: 15px;
+        padding-top: 15px;
+        border-width: 40px;
+        padding-left: 8px;
+        margin: 20px;
+    }
+    header nav ul{
+        list-style: none;
+        font-style: none;
+        align-items: end;
+        font-size: smaller;
+    }
+    h1{
+        font-size: 30px;
+    }
+    .logo{
+        padding-left: 10px;
+        height: 100px;
+        width: 110px;
+    }
+    h1{
+        padding-left: 10px;
+    }
+    .ETF{
+        width: 500px;
+        font-size: 12px;
+        padding: 30px;
+        height: 250px;
+    }
+    .flow{
+        width: 500px;
+        height: 75px;
+        padding: 20px;
+        font-size: 12px;
+    }
+    .pilares{
+        width: 425px;
+        display: grid;
+        grid-template-columns: 5;
+        grid-template-rows: 5;
+        grid-template-areas: 
+        "cuerpo cuerpo . mente mente"
+        "cuerpo cuerpo . mente mente"
+        ". . . . ."
+        "corazon corazon . alma alma"
+        "corazon corazon . alma alma"
+        ;
+        font-size: larger;
+    }
+}
+
+@media(max-width: 375px){
+    
+}
+
+
